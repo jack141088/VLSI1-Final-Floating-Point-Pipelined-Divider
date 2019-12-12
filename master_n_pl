@@ -1,0 +1,1 @@
+time -v lib1 test_n_pl.v newton_raphson_divider_pipelined.v multiplier_newton_pipelined.v adder_newton_pipelined.v adder.v comparator.v

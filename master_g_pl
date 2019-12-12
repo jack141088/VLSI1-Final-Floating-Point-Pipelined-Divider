@@ -1,0 +1,1 @@
+time -v lib1 test_g_pl.v goldschmidt_divider_pipelined.v multiplier_pipelined.v adder.v comparator.v adder_pipelined.v
